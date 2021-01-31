@@ -1,4 +1,4 @@
-# Creating-a-Resposive-Website-Template
+# Creating-a-Responsive-Website-Template
 <strong>Created a simple and responsive website template with a header, footer, cover picture, and picture grid, which can be further modified to make any website you want (used HTML, CSS, flexbox, CSS-grid).</strong>
 <br><br>
 It's important to understand that to create a simple layout, when making a website, all you need are the basic tools, that is, HTML, flexbox, CSS, and CSS-grid. I initially wrote a simple layout in HTML consisting of 4 divs, one for the header, cover picture, picture grid, and footer. <br><br>
